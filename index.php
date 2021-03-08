@@ -72,7 +72,7 @@ img.avatar {
   <div class="imgcontainer">
     <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2LsyQzL4G5tyQEBNahy4cn9VdD-tqMyC-78yELWVRmY86sEuH" alt="Avatar" class="avatar">
   </div>
-
+  <h1>Taller Desarrollo 3</h1>
   <div class="container">
     <label><b>Usuario</b></label>
     <input type="text" placeholder="El usuario" name="user" required>
