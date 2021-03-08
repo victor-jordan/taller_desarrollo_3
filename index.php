@@ -1,5 +1,5 @@
 <?php 
-require('..\Controladores\cl_login.php');
+#require('..\Controladores\cl_login.php');
 ?>
 <!DOCTYPE html>
 <html lang="es-la">
